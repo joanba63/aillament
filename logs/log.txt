@@ -1,0 +1,35 @@
+2025-03-05 00:05:31 - INFO - Inici de l'aplicació.
+2025-03-05 00:07:18 - INFO - Inici de l'aplicació.
+2025-03-05 00:10:58 - INFO - Inici de l'aplicació.
+2025-03-05 00:11:22 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 00:11:33 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 00:11:44 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 00:11:47 - INFO - Camps netejats.
+2025-03-05 00:11:56 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 00:16:29 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 00:21:37 - INFO - Inici de l'aplicació.
+2025-03-05 00:21:49 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 18:21:08 - INFO - Inici de l'aplicació.
+2025-03-05 18:21:13 - ERROR - Error: No s'ha introduït una ciutat.
+2025-03-05 18:21:25 - ERROR - Error en obtenir dades: No s'ha pogut trobar la ciutat.
+2025-03-05 18:42:31 - INFO - Inici de l'aplicació.
+2025-03-05 18:42:36 - ERROR - Error: No s'ha introduït una ciutat.
+2025-03-05 18:52:10 - INFO - Inici de l'aplicació.
+2025-03-05 18:52:34 - INFO - Camps netejats.
+2025-03-05 19:22:14 - INFO - Inici de l'aplicació.
+2025-03-05 19:22:20 - INFO - Camps netejats.
+2025-03-05 19:50:14 - INFO - Inici de l'aplicació.
+2025-03-05 19:50:48 - INFO - Inici de l'aplicació.
+2025-03-05 19:53:56 - INFO - Inici de l'aplicació.
+2025-03-05 20:28:21 - INFO - Inici de l'aplicació.
+2025-03-05 20:40:38 - INFO - Inici de l'aplicació.
+2025-03-05 20:57:50 - INFO - Inici de l'aplicació.
+2025-03-05 21:04:26 - INFO - Inici de l'aplicació.
+2025-03-05 23:10:34 - INFO - Inici de l'aplicació.
+2025-03-05 23:11:36 - INFO - Inici de l'aplicació.
+2025-03-05 23:18:39 - INFO - Inici de l'aplicació.
+2025-03-05 23:37:41 - INFO - Inici de l'aplicació.
+2025-03-05 23:42:14 - INFO - Inici de l'aplicació.
+2025-03-05 23:56:26 - INFO - Inici de l'aplicació.
+2025-03-06 00:00:16 - INFO - Inici de l'aplicació.
+2025-03-06 18:23:42 - INFO - Inici de l'aplicació.
