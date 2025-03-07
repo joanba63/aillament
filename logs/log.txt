@@ -33,3 +33,6 @@
 2025-03-05 23:56:26 - INFO - Inici de l'aplicació.
 2025-03-06 00:00:16 - INFO - Inici de l'aplicació.
 2025-03-06 18:23:42 - INFO - Inici de l'aplicació.
+2025-03-07 16:11:55 - INFO - Inici de l'aplicació.
+2025-03-07 17:39:31 - INFO - Inici de l'aplicació.
+2025-03-07 17:55:27 - INFO - Inici de l'aplicació.
